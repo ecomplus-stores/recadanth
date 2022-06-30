@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a6662712bdf60f2b9161a9f11b58cae2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.969a7f68408df9663f77a1228beb8eaa.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b99a1543795339a941eb805eabf6215f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.437a01eed213ce5178fced304b3007a8.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3d786f9f4ff678198c00615d461e486e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Caredan",
+  "short_name": "recadanth",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "recadanth",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
